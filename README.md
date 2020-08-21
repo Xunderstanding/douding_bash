@@ -1,5 +1,6 @@
 # douding_bash
-bash script for download document from docin.com
+
+a one line bash script for download document from docin.com
 
 # Usage
 
