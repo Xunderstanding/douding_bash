@@ -5,4 +5,6 @@ bash script for download document from docin.com
 
 `bash douding.sh <document-id> <total page number>`
 
+# Example
+
 `bash douding.sh 908309215 3`
